@@ -9,12 +9,6 @@ gtag_id = "G-Q0W5K8WD1X"
 base_url = "https://raagaception.github.io/cherrymarmaladeofficial"
 
 [[sections]]
-direction = "column"
-item_style = "outline"
-[[sections.items]]
-embed_url = "https://www.youtube.com/embed/mEL7IbCxiH0"
-
-[[sections]]
 title = "Socials"
 description = "Keep up with our work on these websites!"
 direction = "row"
@@ -28,3 +22,9 @@ url = "https://www.instagram.com/cherrymarmaladeofficial"
 icon = "https://cdn.simpleicons.org/youtube/ffffff"
 title = "YouTube"
 url = "https://www.youtube.com/@CherryMarmaladeOfficial"
+
+[[sections]]
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+embed_url = "https://www.youtube.com/embed/mEL7IbCxiH0"
