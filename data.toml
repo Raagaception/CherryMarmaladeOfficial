@@ -1,7 +1,7 @@
 name = "Cherry Marmalade"
 description = "Fancy-faced fops, feeding you filthy bops!"
 keywords = "Cherry Marmalade, music band, prog rock, metal, Pune"
-image = "_logo.png"
+image = "_Logov2.jpeg"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
@@ -10,14 +10,15 @@ base_url = "https://raagaception.github.io/cherrymarmaladeofficial"
 
 [[sections]]
 title = "Links"
-description = "Keep up with our work on our socials!"
-direction = "column"
-item_style = "outline"
+description = "Keep up with our work on these websites!"
+direction = "row"
+item_style = "filled"
+icon_size = "30px"
 [[sections.items]]
-title = "YouTube"
-description = "Check out our recent live performances"
-url = "https://www.youtube.com/@CherryMarmaladeOfficial"
-[[sections.items]]
+icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram"
-description = "Fow band pictures, and music release updates"
 url = "https://www.instagram.com/cherrymarmaladeofficial"
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/youtube/ffffff"
+title = "YouTube"
+url = "https://www.youtube.com/@CherryMarmaladeOfficial"
