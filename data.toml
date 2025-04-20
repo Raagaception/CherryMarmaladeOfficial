@@ -1,7 +1,7 @@
 name = "Cherry Marmalade"
 description = "Fancy-faced fops, feeding you filthy bops!"
 keywords = "Cherry Marmalade, music band, prog rock, metal, Pune"
-image = "_Logov4.jpeg"
+image = "_Logov5.jpeg"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
@@ -9,7 +9,13 @@ gtag_id = "G-Q0W5K8WD1X"
 base_url = "https://raagaception.github.io/cherrymarmaladeofficial"
 
 [[sections]]
-title = "Links"
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+embed_url = "https://www.youtube.com/embed/mEL7IbCxiH0"
+
+[[sections]]
+title = "Socials"
 description = "Keep up with our work on these websites!"
 direction = "row"
 item_style = "filled"
