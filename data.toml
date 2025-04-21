@@ -22,6 +22,10 @@ url = "https://www.instagram.com/cherrymarmaladeofficial"
 icon = "https://cdn.simpleicons.org/youtube/ffffff"
 title = "YouTube"
 url = "https://www.youtube.com/@CherryMarmaladeOfficial"
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/protonmail/ffffff"
+title = "Contact Us: CherryMarmaladeOfficial@protonmail.com"
+url = "mailto:CherryMarmaladeOfficial@protonmail.com"
 
 [[sections]]
 direction = "column"
